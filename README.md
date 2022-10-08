@@ -1,7 +1,7 @@
 ### Hi there 👋
-
+一个还在学习的菜鸡
 <!--
-**wray-lee/wray-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**wushuangliu070/wushuangliu070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wushuangliu070&show_icons=true&theme=dracula)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wushuangliu070)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=91BEF0&vCenter=true&lines=This+is+Wray's+homepage;A+noob+c%2B%2B+developer)](https://git.io/typing-svg)
