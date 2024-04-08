@@ -25,4 +25,9 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=91BEF0&vCenter=true&lines=This+is+Wray's+homepage;A+noob+developer)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
