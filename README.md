@@ -27,10 +27,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-INI     53 mins         ████████████████░░░░░░░░░   64.45 %
-Other   20 mins         ██████░░░░░░░░░░░░░░░░░░░   24.57 %
-YAML    6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
-HTML    2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+INI     53 mins         █████████████████▒░░░░░░░   69.69 %
+Other   20 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.57 %
+HTML    2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
 ```
 
 <!--END_SECTION:waka-->
