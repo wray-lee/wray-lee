@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-INI     53 mins         █████████████████▒░░░░░░░   69.69 %
-Other   20 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.57 %
-HTML    2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+INI     1 hr 25 mins    ███████████████████▓░░░░░   78.38 %
+Other   20 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.00 %
+HTML    2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
 ```
 
 <!--END_SECTION:waka-->
