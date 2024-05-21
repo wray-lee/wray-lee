@@ -27,9 +27,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-INI    21 mins         █████████░░░░░░░░░░░░░░░░   36.55 %
-JSON   20 mins         █████████░░░░░░░░░░░░░░░░   35.65 %
-YAML   16 mins         ███████░░░░░░░░░░░░░░░░░░   27.79 %
+YAML         38 mins         ██████████░░░░░░░░░░░░░░░   40.22 %
+INI          21 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.29 %
+JSON         20 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.74 %
+Batchfile    5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
+PowerShell   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
 ```
 
 <!--END_SECTION:waka-->
