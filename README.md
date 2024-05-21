@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=91BEF0&vCenter=true&lines=This+is+Wray's+homepage;A+noob+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=91BEF0&vCenter=true&lines=This+is+Wray's+profile;A+noob+developer)](https://git.io/typing-svg)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wray-lee&show_icons=true&theme=tokyonight)
