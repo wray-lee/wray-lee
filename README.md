@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         38 mins         ████████████▓░░░░░░░░░░░░   51.32 %
-JSON         20 mins         ███████░░░░░░░░░░░░░░░░░░   27.74 %
-Batchfile    5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
-PowerShell   5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
-Other        4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+YAML         38 mins         █████████████████▓░░░░░░░   71.02 %
+Batchfile    5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
+PowerShell   5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
+Other        4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
+INI          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
 ```
 
 <!--END_SECTION:waka-->
