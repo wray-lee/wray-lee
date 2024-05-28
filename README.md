@@ -30,11 +30,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Lua          1 hr 34 mins    ██████████████████░░░░░░░   71.69 %
-YAML         22 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.78 %
-Batchfile    5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
-PowerShell   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-Other        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+Lua         1 hr 34 mins    █████████████████████▓░░░   87.11 %
+Other       13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
+Batchfile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
