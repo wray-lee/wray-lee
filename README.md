@@ -30,9 +30,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Lua         1 hr 34 mins    █████████████████████▓░░░   87.11 %
-Other       13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
-Batchfile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Other   13 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
