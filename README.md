@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-INI    30 mins         ████████████████████████▓   99.19 %
-JSON   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+INI    40 mins         █████████████████████████   99.39 %
+JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
