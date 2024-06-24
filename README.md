@@ -30,8 +30,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-INI   11 mins         ███████████████▒░░░░░░░░░   61.78 %
-Lua   7 mins          █████████▓░░░░░░░░░░░░░░░   38.22 %
+Other   21 mins         ████████████░░░░░░░░░░░░░   48.30 %
+INI     16 mins         █████████░░░░░░░░░░░░░░░░   35.90 %
+Lua     7 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
 ```
 
 <!--END_SECTION:waka-->
