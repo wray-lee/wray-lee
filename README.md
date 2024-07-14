@@ -30,11 +30,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         18 mins         ███████████░░░░░░░░░░░░░░   44.44 %
-HTML         15 mins         █████████▒░░░░░░░░░░░░░░░   37.09 %
-JavaScript   6 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.99 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+YAML   18 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
