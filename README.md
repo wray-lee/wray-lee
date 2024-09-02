@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   19 mins         █████████████████▓░░░░░░░   70.27 %
-Other    5 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.45 %
-YAML     2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+Other   5 mins          ████████████████▓░░░░░░░░   67.19 %
+YAML    2 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.96 %
+INI     0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
 ```
 
 <!--END_SECTION:waka-->
