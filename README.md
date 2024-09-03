@@ -30,9 +30,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other   5 mins          ████████████████▓░░░░░░░░   67.19 %
-YAML    2 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.96 %
-INI     0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
+INI          50 mins         ███████████████▓░░░░░░░░░   62.58 %
+PowerShell   21 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.94 %
+Other        6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+YAML         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
 ```
 
 <!--END_SECTION:waka-->
