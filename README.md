@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-INI          50 mins         ███████████████▓░░░░░░░░░   62.58 %
-PowerShell   21 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.94 %
-Other        6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
-YAML         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+INI          50 mins         █████████████████░░░░░░░░   67.46 %
+PowerShell   21 mins         ███████▒░░░░░░░░░░░░░░░░░   29.04 %
+YAML         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
