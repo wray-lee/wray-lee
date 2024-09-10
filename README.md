@@ -30,9 +30,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-INI          50 mins         █████████████████▒░░░░░░░   69.30 %
-PowerShell   21 mins         ███████▓░░░░░░░░░░░░░░░░░   30.19 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
