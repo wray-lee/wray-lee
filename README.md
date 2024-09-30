@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML   17 mins         █████████████████▒░░░░░░░   69.25 %
-Text   7 mins          ███████▓░░░░░░░░░░░░░░░░░   30.34 %
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+YAML   17 mins         ██████████████▒░░░░░░░░░░   57.53 %
+Text   7 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.21 %
+JSON   5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.26 %
 ```
 
 <!--END_SECTION:waka-->
