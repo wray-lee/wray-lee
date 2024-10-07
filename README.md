@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON   5 mins          ████████████████▓░░░░░░░░   66.67 %
-Lua    2 mins          ████████▒░░░░░░░░░░░░░░░░   33.33 %
+Lua     2 hrs 40 mins   █████████████████████████   99.86 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
