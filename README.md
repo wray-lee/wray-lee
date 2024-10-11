@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Lua     2 hrs 38 mins   █████████████████████████   99.86 %
+Lua     2 hrs 38 mins   ████████████████████████▓   98.08 %
+JSON    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
 Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
