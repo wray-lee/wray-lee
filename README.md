@@ -30,8 +30,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-PowerShell   13 mins         ████████████████████████▓   99.14 %
-INI          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+PowerShell   13 mins         ████████████████████████▒   96.96 %
+C++          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+INI          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
 
 <!--END_SECTION:waka-->
