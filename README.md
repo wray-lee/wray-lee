@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other   17 mins         █████████████████████████   100.00 %
+Other          17 mins         █████████████▒░░░░░░░░░░░   52.91 %
+TeX            15 mins         ███████████▓░░░░░░░░░░░░░   46.26 %
+OpenEdge ABL   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
