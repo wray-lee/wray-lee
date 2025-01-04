@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TeX            16 mins         █████████████████▒░░░░░░░   69.61 %
-Other          6 mins          ███████░░░░░░░░░░░░░░░░░░   28.50 %
-OpenEdge ABL   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-INI            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+TeX            16 mins         ████████████████████████▒   97.24 %
+OpenEdge ABL   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+INI            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+JSON           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
