@@ -30,7 +30,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-INI   22 mins         █████████████████████████   100.00 %
+INI      22 mins         ████████████▒░░░░░░░░░░░░   48.78 %
+MATLAB   11 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.99 %
+JSON     10 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.25 %
+Text     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+TeX      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
