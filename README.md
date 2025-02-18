@@ -30,10 +30,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-MATLAB   1 hr 59 mins    ██████████████████████▓░░   91.17 %
-JSON     10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
-Text     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-TeX      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+MATLAB   1 hr 46 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
