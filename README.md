@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-MATLAB   1 hr 46 mins    █████████████████████████   100.00 %
+MATLAB   1 hr 46 mins    ██████████████████████▓░░   90.74 %
+YAML     7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+INI      3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
 ```
 
 <!--END_SECTION:waka-->
