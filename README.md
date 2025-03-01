@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other    11 mins         ███████████████▒░░░░░░░░░   61.80 %
+Lua      4 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.61 %
+MATLAB   2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
 ```
 
 <!--END_SECTION:waka-->
