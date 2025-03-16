@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TeX            1 hr 38 mins    █████████░░░░░░░░░░░░░░░░   36.43 %
-Bash           1 hr 20 mins    ███████▒░░░░░░░░░░░░░░░░░   29.83 %
-OpenEdge ABL   21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
-confini        17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
-Lua            10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+TeX            1 hr 38 mins    █████████▓░░░░░░░░░░░░░░░   38.09 %
+Bash           1 hr 15 mins    ███████▒░░░░░░░░░░░░░░░░░   29.29 %
+OpenEdge ABL   21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
+confini        17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+Lua            10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
 ```
 
 <!--END_SECTION:waka-->
