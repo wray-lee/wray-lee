@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=91BEF0&vCenter=true&lines=This+is+Wray's+profile;A+noob+developer)](https://git.io/typing-svg)
 
+<p align="center"><img align="center"  width="182" src="https://komarev.com/ghpvc/?username=DeveloperMDCM&color=green&label=DeveloperMDCM%20profile%20views"/></p> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wray-lee&show_icons=true&theme=tokyonight)
 
