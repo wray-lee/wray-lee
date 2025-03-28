@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML           1 hr 33 mins    ██████████▒░░░░░░░░░░░░░░   41.61 %
-jsonc          1 hr 9 mins     ███████▓░░░░░░░░░░░░░░░░░   30.79 %
-INI            11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
-Image (png)    7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
-JavaScript     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+YAML           3 hrs 14 mins   ████████████░░░░░░░░░░░░░   48.65 %
+jsonc          1 hr 9 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.36 %
+Bash           42 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
+Desktop file   24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+INI            11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
 ```
 
 <!--END_SECTION:waka-->
