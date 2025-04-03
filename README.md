@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Bash           3 hrs 43 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.64 %
-YAML           2 hrs 30 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.98 %
-CSS            2 hrs 11 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.66 %
-Other          1 hr 14 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
-JSON           39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+Bash           3 hrs 43 mins   ███████░░░░░░░░░░░░░░░░░░   27.73 %
+CSS            2 hrs 11 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.29 %
+YAML           2 hrs           ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 %
+Other          1 hr 15 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
+sshconfig      39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
 ```
 
 <!--END_SECTION:waka-->
