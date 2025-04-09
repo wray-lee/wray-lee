@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       6 hrs 7 mins    ███████████████▓░░░░░░░░░   62.95 %
-MATLAB       1 hr 39 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.03 %
-Bash         46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
-Other        26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-sshconfig    22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+Python       6 hrs 7 mins    ██████████████████▒░░░░░░   73.62 %
+MATLAB       1 hr 39 mins    █████░░░░░░░░░░░░░░░░░░░░   19.92 %
+Other        16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+sshconfig    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+SSH Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 ```
 
 <!--END_SECTION:waka-->
