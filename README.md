@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python         10 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.67 %
-PacmanConf     9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.74 %
-HTML           8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.90 %
-YAML           8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.39 %
-Other          8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.10 %
+Python       10 mins         ███████▒░░░░░░░░░░░░░░░░░   29.30 %
+PacmanConf   9 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.27 %
+HTML         8 mins          ██████░░░░░░░░░░░░░░░░░░░   23.37 %
+Other        4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
+Java         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
 ```
 
 <!--END_SECTION:waka-->
