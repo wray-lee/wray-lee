@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       2 hrs 21 mins   ██████████████████████▓░░   90.63 %
-PacmanConf   9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
-Other        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-conf         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-MATLAB       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Python         2 hrs 38 mins   ██████████████▓░░░░░░░░░░   59.10 %
+TeX            1 hr 35 mins    █████████░░░░░░░░░░░░░░░░   35.62 %
+OpenEdge ABL   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+YAML           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Bash           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->
