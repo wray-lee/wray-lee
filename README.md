@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TeX            2 hrs 48 mins   ███████████████████▒░░░░░   76.87 %
-Python         27 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
-OpenEdge ABL   10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
-Desktop file   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-YAML           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+TeX            2 hrs 48 mins   █████████████▓░░░░░░░░░░░   54.81 %
+YAML           1 hr 4 mins     █████▒░░░░░░░░░░░░░░░░░░░   20.96 %
+Python         27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
+Text           26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
+OpenEdge ABL   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
 ```
 
 <!--END_SECTION:waka-->
