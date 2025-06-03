@@ -31,8 +31,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-INI   1 hr 4 mins     ████████████████████▓░░░░   82.00 %
-reg   14 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.00 %
+INI   1 hr 4 mins     █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
