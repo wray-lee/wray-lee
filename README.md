@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-INI   4 mins          █████████████████████████   100.00 %
+Python   2 hrs 33 mins   ████████████████████████▒   97.18 %
+INI      4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
 ```
 
 <!--END_SECTION:waka-->
