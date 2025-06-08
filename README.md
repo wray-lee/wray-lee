@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python         2 hrs 33 mins   █████████████████▒░░░░░░░   69.65 %
-Bash           17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
-Desktop file   17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
-INI            17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
-PacmanConf     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+Python         2 hrs 33 mins   ████████████████░░░░░░░░░   64.33 %
+Bash           19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
+Desktop file   18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+INI            12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+sh             12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
 ```
 
 <!--END_SECTION:waka-->
