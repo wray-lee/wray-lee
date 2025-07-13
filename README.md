@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++          1 hr 19 mins    ███████▓░░░░░░░░░░░░░░░░░   30.81 %
-YAML         49 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.21 %
-INI          34 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
-VBScript     21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
-PowerShell   16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
+YAML         49 mins         ██████████▒░░░░░░░░░░░░░░   41.52 %
+VBScript     19 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.62 %
+PowerShell   16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 %
+Bash         12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
+Public Key   11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
 ```
 
 <!--END_SECTION:waka-->
