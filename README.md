@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         49 mins         ██████████▒░░░░░░░░░░░░░░   41.52 %
-VBScript     19 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.62 %
-PowerShell   16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 %
-Bash         12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
-Public Key   11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
+YAML         49 mins         ███████████▒░░░░░░░░░░░░░   45.98 %
+VBScript     19 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.41 %
+PowerShell   16 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 %
+Public Key   11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 %
+CSV          5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
 ```
 
 <!--END_SECTION:waka-->
