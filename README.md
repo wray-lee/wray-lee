@@ -31,11 +31,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML           1 hr 36 mins    ████████████████░░░░░░░░░   64.39 %
-conf           14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
-Bash           12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
-hyprlang       10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
-Other          8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+YAML    59 mins         ████████████████████████░   95.50 %
+Other   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
 ```
 
 <!--END_SECTION:waka-->
