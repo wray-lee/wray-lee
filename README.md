@@ -31,9 +31,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML    16 mins         ███████████████████▒░░░░░   77.84 %
-Other   2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 %
-INI     2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 %
+conf           59 mins         ██████████▓░░░░░░░░░░░░░░   42.47 %
+sshconfig      27 mins         █████░░░░░░░░░░░░░░░░░░░░   19.68 %
+YAML           23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.96 %
+Other          12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
+PacmanConf     4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
 ```
 
 <!--END_SECTION:waka-->
