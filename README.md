@@ -31,11 +31,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML        33 mins         █████████████▓░░░░░░░░░░░   54.84 %
-Other       12 mins         █████░░░░░░░░░░░░░░░░░░░░   20.37 %
-Bash        10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.70 %
-gitrebase   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
-gitconfig   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+YAML     33 mins         ████████████████████████░   96.29 %
+Other    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+Bash     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
