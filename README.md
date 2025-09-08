@@ -31,10 +31,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TeX      2 hrs 37 mins   ███████████████████████░░   91.59 %
-BibTeX   10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
-Bash     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-Other    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+TeX      2 hrs 37 mins   ███████████████████████▒░   92.91 %
+BibTeX   10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+Other    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->
