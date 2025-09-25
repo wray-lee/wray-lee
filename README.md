@@ -31,9 +31,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other   12 mins         ████████████████░░░░░░░░░   63.84 %
-YAML    4 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.01 %
-Bash    2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
+Batchfile   1 hr 30 mins    ███████████████████▒░░░░░   77.93 %
+Other       15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.23 %
+YAML        5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+Bash        4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
 ```
 
 <!--END_SECTION:waka-->
