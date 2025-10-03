@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python         1 hr 20 mins    ██████████▒░░░░░░░░░░░░░░   41.90 %
-PowerShell     46 mins         ██████░░░░░░░░░░░░░░░░░░░   24.35 %
-Text           17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
-Batchfile      10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
-Other          10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+Python         1 hr 20 mins    ██████████▓░░░░░░░░░░░░░░   42.81 %
+PowerShell     46 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.88 %
+Text           13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+Batchfile      10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+Other          10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
 ```
 
 <!--END_SECTION:waka-->
