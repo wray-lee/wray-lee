@@ -31,8 +31,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Batchfile    48 mins         ███████████████▓░░░░░░░░░   63.08 %
-PowerShell   28 mins         █████████▒░░░░░░░░░░░░░░░   36.92 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
