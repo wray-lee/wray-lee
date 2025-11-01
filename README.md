@@ -31,9 +31,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   11 mins         █████████████████░░░░░░░░   67.51 %
-YAML         5 mins          ████████░░░░░░░░░░░░░░░░░   32.24 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+TeX          40 mins         ████████████▓░░░░░░░░░░░░   50.09 %
+BibTeX       23 mins         ███████▒░░░░░░░░░░░░░░░░░   28.73 %
+JavaScript   11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.30 %
+YAML         5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
