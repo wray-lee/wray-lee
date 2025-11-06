@@ -31,9 +31,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TeX          40 mins         █████████████▒░░░░░░░░░░░   53.79 %
-BibTeX       23 mins         ███████▓░░░░░░░░░░░░░░░░░   30.85 %
-JavaScript   11 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.36 %
+TeX      40 mins         ████████████████░░░░░░░░░   63.55 %
+BibTeX   23 mins         █████████░░░░░░░░░░░░░░░░   36.45 %
 ```
 
 <!--END_SECTION:waka-->
