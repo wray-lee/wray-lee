@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-INI   0 secs          █████████████████████████   100.00 %
+YAML   1 hr 44 mins    █████████████████████████   99.71 %
+INI    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
