@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML     3 hrs 8 mins    ████████████████████░░░░░   80.11 %
-Python   20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
-JSON     15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
-Other    11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+YAML     2 hrs 15 mins   ██████████████████▓░░░░░░   74.17 %
+Python   20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
+JSON     15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
+Other    11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
 ```
 
 <!--END_SECTION:waka-->
