@@ -31,7 +31,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++   2 hrs 44 mins   █████████████████████████   100.00 %
+C++      2 hrs 38 mins   ███████████████████████▒░   93.24 %
+Other    5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+Text     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Docker   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
