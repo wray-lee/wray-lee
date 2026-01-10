@@ -31,9 +31,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TeX        1 hr 34 mins    ████████████████████████▓   98.81 %
-BibTeX     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
