@@ -31,9 +31,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-hyprlang   6 mins          ███████████████▒░░░░░░░░░   61.79 %
-dosini     4 mins          █████████▒░░░░░░░░░░░░░░░   37.58 %
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+hyprlang   6 mins          ███████████████▓░░░░░░░░░   62.18 %
+dosini     4 mins          █████████▒░░░░░░░░░░░░░░░   37.82 %
 ```
 
 <!--END_SECTION:waka-->
