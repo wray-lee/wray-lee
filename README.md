@@ -31,8 +31,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-hyprlang   6 mins          ███████████████▓░░░░░░░░░   62.18 %
-dosini     4 mins          █████████▒░░░░░░░░░░░░░░░   37.82 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
