@@ -31,9 +31,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML    24 mins               ████████████████████████░   95.84 %
-JSON    0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-Other   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
