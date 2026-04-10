@@ -31,7 +31,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Batchfile   15 mins               █████████████████████████   100.00 %
+Bash        31 mins               ████████████░░░░░░░░░░░░░   47.43 %
+Batchfile   15 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.96 %
+Lua         9 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
+CSS         7 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
+hyprlang    2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
 ```
 
 <!--END_SECTION:waka-->
