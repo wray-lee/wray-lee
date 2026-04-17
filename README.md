@@ -31,11 +31,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Bash           57 mins               █████████████████░░░░░░░░   67.60 %
-Lua            9 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
-hyprlang       8 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
-CSS            7 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
-Desktop file   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Bash           25 mins               ███████████████████▒░░░░░   77.09 %
+hyprlang       6 mins                █████░░░░░░░░░░░░░░░░░░░░   19.37 %
+Desktop file   0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+limits         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 ```
 
 <!--END_SECTION:waka-->
