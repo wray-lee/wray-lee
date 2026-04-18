@@ -31,10 +31,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Bash           25 mins               ███████████████████▒░░░░░   77.09 %
-hyprlang       6 mins                █████░░░░░░░░░░░░░░░░░░░░   19.37 %
-Desktop file   0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-limits         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+Bash           24 mins               ████████████████████████▒   96.93 %
+Desktop file   0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
 ```
 
 <!--END_SECTION:waka-->
