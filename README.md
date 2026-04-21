@@ -31,11 +31,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Bash           24 mins               █████████████░░░░░░░░░░░░   52.41 %
-YAML           16 mins               █████████░░░░░░░░░░░░░░░░   35.42 %
-JSON           4 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 %
-Desktop file   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-Other          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+YAML    16 mins               ███████████████████▒░░░░░   77.12 %
+JSON    4 mins                █████▓░░░░░░░░░░░░░░░░░░░   22.87 %
+Other   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
