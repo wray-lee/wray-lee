@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++            1 hr 37 mins          ██████████▒░░░░░░░░░░░░░░   41.35 %
-Python         1 hr 18 mins          ████████▒░░░░░░░░░░░░░░░░   33.58 %
-PacmanConf     23 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
-INI            14 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
-JSON           11 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+Python         1 hr 18 mins          ██████████████▓░░░░░░░░░░   58.49 %
+PacmanConf     23 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.07 %
+INI            11 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
+JSON           11 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
+sshconfig      5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
 ```
 
 <!--END_SECTION:waka-->
