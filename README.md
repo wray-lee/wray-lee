@@ -31,8 +31,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML           19 mins               ██████████████████████░░░   88.22 %
-Desktop file   2 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
+YAML           19 mins               ███████████████████░░░░░░   75.62 %
+Python         3 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.23 %
+Desktop file   2 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 %
+Markdown       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
