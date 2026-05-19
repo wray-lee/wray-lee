@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 
 <p align="center"><a href=#><img src="image/contributions.svg"></a></p>  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wray-lee&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=wray-lee&show_icons=true&theme=tokyonight)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wray-lee&exclude_repo=wray-lee.github.io,wray-lee&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=wray-lee&exclude_repo=wray-lee.github.io,wray-lee&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wray)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=wray)](https://github.com/anuraghazra/github-readme-stats)
 
 > Last week time
 
