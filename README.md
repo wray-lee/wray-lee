@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python         2 hrs 31 mins         █████████████▒░░░░░░░░░░░   53.80 %
-JSON           1 hr 15 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.90 %
-Bash           17 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
-PacmanConf     13 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
-hyprlang       8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+JSON           1 hr 15 mins          ██████████▒░░░░░░░░░░░░░░   41.68 %
+Python         57 mins               ████████░░░░░░░░░░░░░░░░░   31.74 %
+Bash           16 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
+PacmanConf     13 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+hyprlang       8 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
 ```
 
 <!--END_SECTION:waka-->
