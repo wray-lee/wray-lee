@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       7 hrs 9 mins          █████████████████▓░░░░░░░   70.73 %
-YAML         1 hr 35 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.76 %
-Markdown     44 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
-Text         16 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-Other        8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+Python       9 hrs 34 mins         █████████████████▓░░░░░░░   70.68 %
+YAML         1 hr 42 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
+Markdown     1 hr 14 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
+CSV          17 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+Text         16 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
 ```
 
 <!--END_SECTION:waka-->
