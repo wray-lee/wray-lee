@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="center"><a href=#><img src="image/contributions.svg"></a></p>  
 
-![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=wray-lee&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=wray-lee&show_icons=true&show=reviews&theme=tokyonight)
 
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=wray-lee&exclude_repo=wray-lee.github.io,wray-lee&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
