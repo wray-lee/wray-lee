@@ -31,10 +31,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   24 mins               ████████████████████████▓   98.93 %
-Python     0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-Text       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-YAML       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Rust   0 secs                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
