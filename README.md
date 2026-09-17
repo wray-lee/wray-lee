@@ -1,4 +1,11 @@
 ### Hi there 👋
+
+🧠 **Neuroscience Researcher** | Computational Neuroscience & Neural Data Analysis
+
+🎓 **Education**
+- 🇯🇵 **2026-2028** | Master's Student @ Hokkaido University
+- 🇨🇳 **2021-2025** | B.S. @ University of Electronic Science and Technology of China (UESTC)
+
 ![](https://count.getloli.com/get/@wray-lee.github.io?theme=rule34)
 <!--
 **wray-le/wray-lee* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
