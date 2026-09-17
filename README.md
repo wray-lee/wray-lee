@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=91BEF0&vCenter=true&lines=This+is+Wray's+profile;A+noob+developer)](https://git.io/typing-svg)
 
-<p align="center"><a href=#><img src="image/contributions.svg"></a></p>  
 
 ![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=wray-lee&show_icons=true&show=reviews&theme=tokyonight)
 
@@ -42,3 +41,5 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+<p align="center"><a href=#><img src="image/contributions.svg"></a></p>  
