@@ -37,11 +37,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other   40 mins               ████████████████░░░░░░░░░   64.44 %
-Lua     17 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.98 %
-C++     4 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
-Bash    1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-CSS     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
