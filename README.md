@@ -37,7 +37,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Lua        1 hr 41 mins          ███████████▓░░░░░░░░░░░░░   46.65 %
+Other      58 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.96 %
+CSS        29 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 %
+Bash       24 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
+hyprlang   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 ```
 
 <!--END_SECTION:waka-->
