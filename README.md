@@ -37,8 +37,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-conf     5 mins                ██████████████████████░░░   88.65 %
-resolv   0 secs                ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
+Rust         1 hr 3 mins           ████████████▒░░░░░░░░░░░░   49.59 %
+Markdown     41 mins               ████████░░░░░░░░░░░░░░░░░   32.06 %
+TOML         12 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
+conf         5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+Bash         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
 ```
 
 <!--END_SECTION:waka-->
