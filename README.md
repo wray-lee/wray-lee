@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown       62 hrs 25 mins        █████████████████░░░░░░░░   67.42 %
-Other          16 hrs 7 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.41 %
-Python         5 hrs 31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
-KDL            2 hrs 20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-TypeScript     2 hrs 2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+Markdown     45 hrs 53 mins        ████████████████▒░░░░░░░░   64.88 %
+Other        12 hrs                ████▒░░░░░░░░░░░░░░░░░░░░   16.98 %
+Python       5 hrs 26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
+TypeScript   2 hrs 2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+JSON         1 hr 25 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
 ```
 
 <!--END_SECTION:waka-->
